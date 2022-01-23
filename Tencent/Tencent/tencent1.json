@@ -1,0 +1,82 @@
+[
+  {
+    "position_name": "22989-腾讯云网络技术运营岗（CSIG全资子公司）",
+    "position_level": "CSIG",
+    "position_localtion": "武汉",
+    "position_department": "技术",
+    "position_updatetime": "2022年01月15日",
+    "position_description": "1.负责腾讯云客户网络方案设计；\n2.负责关键网络项目交付管理；\n3.负责腾讯云网络产品的现网日常运营工作；\n4.负责联动内部相关团队，推进技术迭代，产品升级，提升产品竞争力；"
+  },
+  {
+    "position_name": "TEG03-大数据计算平台高级工程师/专家（上海/深圳/北京）",
+    "position_level": "TEG",
+    "position_localtion": "上海",
+    "position_department": "技术",
+    "position_updatetime": "2022年01月15日",
+    "position_description": "1. 主要负责领导腾讯大数据OLAP实时计算平台研发，包括其他OLAP系统的生态建设(HBase/Presto/Druid/Doris等)，直接参与建设腾讯多个核心产品线的数据平台体系；\n2. 负责研发下一代超大规模下的分布式存储计算引擎、MPP计算引擎、搜索分析引擎等。打造世界领先的自适应的混合云计算架构，为腾讯的核心产品提供重要支持；\n3. 负责分析系统瓶颈与架构合理性，促进服务架构优化，参与开源社区的合作。"
+  },
+  {
+    "position_name": "18436-数据平台前端开发工程师（深圳）",
+    "position_level": "CDG",
+    "position_localtion": "深圳",
+    "position_department": "技术",
+    "position_updatetime": "2022年01月15日",
+    "position_description": "1.负责腾讯互联网金融大数据系统(如BI分析系统、推荐系统、数据可视化等)web前端开发工作；\n2.参与日常产品特性的讨论，评估项目的可行性，参与项目从原型到开发，测试，发布；\n3.参与用户体验优化，包括但不限于：业务流程、交互、性能、安全等；\n4.通过工具与组件的开发与持续优化，提升团队工作效率；"
+  },
+  {
+    "position_name": "49518-高级招聘专员(IEG)- 腾佳(腾讯全资子公司)(上海)",
+    "position_level": "S3",
+    "position_localtion": "上海",
+    "position_department": "人力资源",
+    "position_updatetime": "2022年01月15日",
+    "position_description": "主要负责高质量简历搜索工作；\n负责研究目标行业发展及人才特征；\n利用各种工具及渠道，寻找优秀的人才；\n人才库的运营及其他平台型产品建设工作。\n\n该岗位为正式员工HC，签约主体是腾讯全资子公司。"
+  },
+  {
+    "position_name": "49518-高级招聘专员-腾佳(腾讯全资子公司)(深圳)",
+    "position_level": "S3",
+    "position_localtion": "深圳",
+    "position_department": "人力资源",
+    "position_updatetime": "2022年01月15日",
+    "position_description": "主要负责高质量简历搜索工作；\n负责研究目标行业发展及人才特征；\n利用各种工具及渠道，寻找优秀的人才；\n人才库的运营及其他平台型产品建设工作。"
+  },
+  {
+    "position_name": "49518-高级招聘专员-腾佳(武汉)",
+    "position_level": "S3",
+    "position_localtion": "武汉",
+    "position_department": "人力资源",
+    "position_updatetime": "2022年01月15日",
+    "position_description": "负责端到端招聘流程管理，对交付结果负责；\n深入理解业务，把握业务需求，快速搭建业务团队；\n开发、维护和管理招聘渠道，深化渠道使用效能，合理配置资源，提升招聘效率；\n组织、推动目标垂类行业人才及市场研究，了解人才及行业动态，沉淀输出相关文档；\n沉淀、分析招聘数据及漏斗，对症下药，提出优化招聘制度和流程的合理建议并落地。\n\n该岗位为正式员工HC，签约主体是腾讯全资子公司。"
+  },
+  {
+    "position_name": "49518-猎聘高级专员-腾佳（腾讯全资子公司）（成都/深圳）（深圳）",
+    "position_level": "S3",
+    "position_localtion": "深圳",
+    "position_department": "人力资源",
+    "position_updatetime": "2022年01月15日",
+    "position_description": "定向猎聘：熟练使用和开拓各渠道资源，进行定向人才开源；\n高端人选：建设运营行业人才池，持续对头部人才进行探索、挖掘；\n垂类人脉：建设有效的垂直领域的行业人脉网络以更好的服务于业务；\n项目研究工作，包括：专家访谈、项目信息获取、分析汇总；\n长期关注行业新闻，快速学习各个行业知识，深入理解行业动态对招聘的影响。\n\n该岗位为正式员工HC，签约主体是腾讯全资子公司。"
+  },
+  {
+    "position_name": "49518-招聘专员(IEG)-腾佳(武汉)",
+    "position_level": "S3",
+    "position_localtion": "武汉",
+    "position_department": "人力资源",
+    "position_updatetime": "2022年01月15日",
+    "position_description": "对接IEG的部分重点岗位，负责端到端的全流程招聘交付，工作内容包括但不限于：\n掌握所负责岗位的招聘需求，分析人才画像；\n开发和利用各种工具和渠道，进行高质量人才的搜索和猎聘；\n负责候选人甄选，做好质量把关，并跟进定薪和入职等流程；\n负责目标行业的发展态势及人才特征研究；\n行业人才库运营及招聘模块建设工作。\n\n该岗位为正式员工HC，签约主体是腾讯全资子公司。"
+  },
+  {
+    "position_name": "31871-云产品硬件架构师-计算方向(深圳/北京)",
+    "position_level": "CSIG",
+    "position_localtion": "深圳",
+    "position_department": "技术",
+    "position_updatetime": "2022年01月15日",
+    "position_description": "1、负责计算系统的架构设计和应用方案设计，包括CPU核、内存、Cache、IO总线等模块； \n2、具体负责结合典型应用进行硬件方案优化（包含CPU芯片定制化，虚拟化内核优化，内存系统优化），完成关键技术预研，通过优化硬件算力性能、优化cache/内存性能，达成系统领先竞争力；\n3、负责公司云计算软硬件一体化产品的需求调研、规划设计工作；\n4、关注国内外行业竞品及发展趋势，结合客户需求与市场需求，迭代更新产品路线；\n5、设计产品功能，与后端架构与研发团队紧密沟通，保证产品的功能实现进度和质量；\n6、细化产品需求，提供需求文档和设计原型；\n7、持续迭代，从不同维度不断提升产品的用户体验。"
+  },
+  {
+    "position_name": "WXG03-微信公众平台后台开发工程师（广州）",
+    "position_level": "WXG",
+    "position_localtion": "广州",
+    "position_department": "技术",
+    "position_updatetime": "2022年01月15日",
+    "position_description": "负责公众平台后台整体架构设计和业务开发，包括公众号消息通道、关系链、视频、文章、第三方服务等整个公众号生态的搭建。"
+  }
+]
